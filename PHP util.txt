@@ -1,5 +1,8 @@
 https://www.microsofttech.com.br/pt-br/microsofttech/crie-sua-camera-html5-2/
 https://jonathasguerra.com.br/blog/acessando-camera-do-celular-tirar-foto-e-fazer-upload-com-php-e-html5/
+https://www.w3schools.com/icons/fontawesome5_icons_images.asp
+
+https://w3bits.com/prevent-chrome-pull-to-refresh-css/
 
 //ATUALIZA FRAME
 var fram1 = parent.document.getElementById('nmsc_iframe_liga_grid_TB_RDC_X_RD');
