@@ -1,0 +1,22 @@
+https://www.microsofttech.com.br/pt-br/microsofttech/crie-sua-camera-html5-2/
+
+
+//ATUALIZA FRAME
+var fram1 = parent.document.getElementById('nmsc_iframe_liga_grid_TB_RDC_X_RD');
+var srcant1 = fram1.src;
+fram1.src='';
+fram1.src = srcant1;
+//
+
+$str = '5647777';
+
+preg_match_all('/_/', $str, $matches);
+
+if (preg_match("/_/i", $str)) {
+    echo "A match was found.";
+	preg_match('/(?P<digit>\d+)(?P<name>\w+)/', $str, $matches);
+echo '</br></br>Valor id'.($matches[1]);
+} else {
+    echo "A match was not found.".$str;
+}
+
