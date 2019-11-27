@@ -1,7 +1,9 @@
 https://www.microsofttech.com.br/pt-br/microsofttech/crie-sua-camera-html5-2/
 https://jonathasguerra.com.br/blog/acessando-camera-do-celular-tirar-foto-e-fazer-upload-com-php-e-html5/
 https://www.w3schools.com/icons/fontawesome5_icons_images.asp
-
+*************desabilita o push refresh no google android*****************
+https://developer.mozilla.org/en-US/docs/Web/CSS/overscroll-behavior
+*************************************************************************
 https://w3bits.com/prevent-chrome-pull-to-refresh-css/
 
 //ATUALIZA FRAME
