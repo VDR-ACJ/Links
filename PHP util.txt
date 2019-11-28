@@ -25,3 +25,10 @@ echo '</br></br>Valor id'.($matches[1]);
     echo "A match was not found.".$str;
 }
 
+************************************************************************
+Previne de atualizar no google android  
+
+html,body,table{
+overscroll-behavior: none;
+}
+
