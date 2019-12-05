@@ -1,1 +1,4 @@
 https://www.androidpro.com.br/blog/desenvolvimento-android/listviews/
+
+//OCR de imagem
+https://codelabs.developers.google.com/codelabs/mobile-vision-ocr/#4
